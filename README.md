@@ -21,3 +21,8 @@ this project is first demo of Git Series - How to use git
 9. staging area 
 
 10. git repository 
+
+11. git checkout
+- xóa những thay đổi trong file 
+12. git reset
+- thay đổi trạng thái file từ staging area ->  working directoty 
