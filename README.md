@@ -4,3 +4,7 @@ this project is first demo of Git Series - How to use git
 2. git statue
 3. git add
 4. git commit
+
+5. git log
+6. git show 
+7. git diff
