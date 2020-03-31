@@ -26,3 +26,8 @@ this project is first demo of Git Series - How to use git
 - xóa những thay đổi trong file 
 12. git reset
 - thay đổi trạng thái file từ staging area ->  working directoty 
+
+13. git checkout -b <branch> 
+- tạo nhánh mới trong git 
+14. Git merge 
+- ghép 2 nhánh với nhau trong git 
