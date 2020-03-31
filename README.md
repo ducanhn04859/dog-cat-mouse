@@ -29,5 +29,16 @@ this project is first demo of Git Series - How to use git
 
 13. git checkout -b <branch> 
 - tạo nhánh mới trong git 
+13.1 git checkout <ten branch>
+- chuyen sang nhanh <ten branch >
 14. Git merge 
 - ghép 2 nhánh với nhau trong git 
+15. git branch -D 
+- Xóa branch đi 
+
+16. git reset --soft <to_commit>
+- Unpack commit ở trạng thái staging
+17. git reset --mixed <to_commit>
+-  Unpack commit ở trạng thái working directory
+18. git reset --hard <to_commit>
+- Unpack commit ở trạng thái
