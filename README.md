@@ -36,9 +36,12 @@ this project is first demo of Git Series - How to use git
 15. git branch -D 
 - Xóa branch đi 
 
-16. git reset --soft <to_commit>
-- Unpack commit ở trạng thái staging
-17. git reset --mixed <to_commit>
--  Unpack commit ở trạng thái working directory
-18. git reset --hard <to_commit>
-- Unpack commit ở trạng thái
+16. git reset --soft <code_commit>
+- Unpack commit ở trạng thái staging, các commit trc đều biến mất
+17. git reset --mixed <code_commit>
+-  Unpack commit ở trạng thái working directory, các commit trc đều biến mất
+18. git reset --hard <code_commit>
+- Unpack commit ở trạng thái ban đầu, các commit trc đều biến mất
+
+19. get revert <commit>
+-Trả lại trạng thái lúc trc. Vd bỏ commit bị sai chỉ áp dụng cho 1 commit, các commit trc không bị biến mất
