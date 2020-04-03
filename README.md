@@ -49,6 +49,7 @@ this project is first demo of Git Series - How to use git
 20. .gitignore
 - Bỏ qua 1 số file không muốn commit hay k muốn hiển thị
 
+//-------------------------------//
 21. git remote add origin <link>
 Upload code len github
 //<link> được tự tạo trên github sau khi tạo repository vd:https://github.com/ducanhn04859/dog-cat-mouse.git
@@ -56,3 +57,14 @@ Upload code len github
 22. Git remote -v 
 Hiển thị tất cả repos
 
+23. git clone
+Copy repos trên github về máy tính 
+24. Git pull 
+Pull từ trên github về máy
+
+25. Pull request
+25.1 git checkout -b <feature_branch> // tạo nhánh nhỏ để làm việc
+25.2 git push origin <branch> // upload nhánh lên trên github
+25.3 create a pull request on Github
+25.4 Review code
+25.5 Merge to master
