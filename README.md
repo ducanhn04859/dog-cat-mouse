@@ -67,4 +67,7 @@ Pull từ trên github về máy
 25.2 git push origin <branch> // upload nhánh lên trên github
 25.3 create a pull request on Github
 25.4 Review code
+    25.4.1 review code online (github)
+    25.4.2 fetch branch into local to test offline (optional)
+    25.4.3 approve the pull request
 25.5 Merge to master
