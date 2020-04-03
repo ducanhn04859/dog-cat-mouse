@@ -45,3 +45,14 @@ this project is first demo of Git Series - How to use git
 
 19. get revert <commit>
 -Trả lại trạng thái lúc trc. Vd bỏ commit bị sai chỉ áp dụng cho 1 commit, các commit trc không bị biến mất
+
+20. .gitignore
+- Bỏ qua 1 số file không muốn commit hay k muốn hiển thị
+
+21. git remote add origin <link>
+Upload code len github
+//<link> được tự tạo trên github sau khi tạo repository vd:https://github.com/ducanhn04859/dog-cat-mouse.git
+
+22. Git remote -v 
+Hiển thị tất cả repos
+
